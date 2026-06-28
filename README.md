@@ -1,7 +1,7 @@
 <p align="center">
-  $\small\textcolor{#576720}{\textsf{mainly}}$
-  $\small\textcolor{#766f27}{\textsf{dni or dniuf,}}$
-  $\small\textcolor{#a7af6f}{\textsf{comfort sleep.}}$
+  $\small\textcolor{#461d09}{\textsf{mainly}}$
+  $\small\textcolor{#672200}{\textsf{dni or dniuf,}}$
+  $\small\textcolor{#93760e}{\textsf{comfort sleep.}}$
 
 
 
